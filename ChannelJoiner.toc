@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: |cffffe00a<|r|cffeda55fChannelJoiner|r|cffffe00a>|r by |cFF40FF40Mickerd|r
+## Notes: This Addon makes it so you automatically join a channel of your choice! To choose a channel, edit "ChannelJoiner.lua" and replace "CHANNELHERE" with your desired channel.
+## Author: Mickerd
+## Version: 1.0
+
+DiscordChannel.lua
+DiscordChannel.xml
